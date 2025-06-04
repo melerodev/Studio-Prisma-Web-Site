@@ -1171,6 +1171,7 @@ footer .space-y-2 { /* Se aplica a los ul con esta clase en el footer */
   border: none;
   cursor: pointer;
   text-decoration: none;
+  padding: 10px;
 }
 
 .btn-primary {
